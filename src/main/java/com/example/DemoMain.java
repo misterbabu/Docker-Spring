@@ -10,5 +10,6 @@ public class DemoMain {
         System.out.println("======Before Out from Main=========");
         SpringApplication.run(DemoMain.class, args);
         System.out.println("======After Out from Main=========");
+        System.out.println("======Testing After Out from Main=========");
     }
 }
